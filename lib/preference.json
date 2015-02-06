@@ -1,0 +1,33 @@
+{
+	"app": {
+		"hostname": "localhost",
+		"command": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe"
+	},
+	"process": {},
+	"blink": [
+		"--disable-component-extensions-with-background-pages",
+		"--disable-save-password-bubble",
+		"--disable-boot-animation",
+		"--disable-popup-blocking",
+		"--disable-default-apps",
+		"--disable-web-security",
+		"--disable-translate",
+		"--disable-infobars",
+		"--disable-sync",
+		"--allow-file-access-from-files",
+		"--enable-apps-show-on-first-paint",
+		"--enable-local-file-accesses",
+		"--enable-show-modal-dialog",
+		"--enable-fast-unload",
+		"--no-default-browser-check",
+		"--no-first-run",
+		"--noerrdialogs",
+		"--no-sandbox",
+		"--skip-gpu-data-loading",
+		"--lang=zh-CN",
+		"--fast-start",
+		"--gpu-process",
+		"--prerender",
+		"--bwsi"
+	]
+}

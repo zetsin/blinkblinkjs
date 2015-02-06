@@ -1,0 +1,29 @@
+{
+  "name": "blinkblinkjs",
+  "version": "1.0.0",
+  "description": "Nodejs for Chrome/Blink",
+  "main": "./lib/blinkblink.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ws": "^0.7.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zetsingithub/blinkblinkjs.git"
+  },
+  "keywords": [
+    "noejs",
+    "chromium",
+    "chrome",
+    "blink"
+  ],
+  "author": "Zetsin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zetsingithub/blinkblinkjs/issues"
+  },
+  "homepage": "https://github.com/zetsingithub/blinkblinkjs"
+}
